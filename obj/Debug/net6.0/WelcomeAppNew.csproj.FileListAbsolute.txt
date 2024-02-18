@@ -1,0 +1,14 @@
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\bin\Debug\net6.0\WelcomeAppNew.exe
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\bin\Debug\net6.0\WelcomeAppNew.deps.json
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\bin\Debug\net6.0\WelcomeAppNew.runtimeconfig.json
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\bin\Debug\net6.0\WelcomeAppNew.dll
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\bin\Debug\net6.0\WelcomeAppNew.pdb
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.GeneratedMSBuildEditorConfig.editorconfig
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.AssemblyInfoInputs.cache
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.AssemblyInfo.cs
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.csproj.CoreCompileInputs.cache
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.dll
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\refint\WelcomeAppNew.dll
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.pdb
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\WelcomeAppNew.genruntimeconfig.cache
+F:\New class\Phase-4\Feb-15\WelcomeAppNew\WelcomeAppNew\obj\Debug\net6.0\ref\WelcomeAppNew.dll
